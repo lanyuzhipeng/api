@@ -1,0 +1,9 @@
+[ 2016-09-01T18:50:50+08:00 ] 192.168.40.29 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014966s ]
+ERR: _CONTROLLER_NOT_EXIST_:Public
+

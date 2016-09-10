@@ -1,0 +1,6 @@
+[ 2016-08-29T18:52:49+08:00 ] 127.0.0.1 /index.php/Api/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+ERR: _MODULE_NOT_EXIST_:Api
+

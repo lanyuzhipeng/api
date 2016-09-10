@@ -1,0 +1,9 @@
+[ 2016-08-31T23:23:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.007981s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013065s ]
+ERR: _CONTROLLER_NOT_EXIST_:Public
+
